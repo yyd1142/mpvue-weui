@@ -24,7 +24,7 @@
     "release": "sh ./release.sh"
   },
   "dependencies": {
-    "mpvue-citypicker": "^1.0.6",
+    "mpvue-citypicker": "github:yyd1142/mpvue-citypicker",
     "mpvue-picker": "^2.1.6"
   },
   "devDependencies": {
